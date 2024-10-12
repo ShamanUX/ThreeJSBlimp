@@ -1,1 +1,1 @@
-Simple ThreeJS program with showcasing blimp and easeInOut rotation.
+Simple ThreeJS program showcasing blimp and easeInOut rotation.
